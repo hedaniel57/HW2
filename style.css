@@ -2,3 +2,5 @@ body {background:lightblue; font-family:"Georgia";}
 h1 {text-align:center; font-weight:bold;font-style:italic;font-size:28pt;}
 h2 {text-align:center; font-size:14pt;}
 h3 {text-weight:bold;font-size:10pt;}
+.style1{border:10pt solid black; width:auto; padding:100pt; margin-top:10pt; margin-bottom:10pt; margin-right:0pt; margin-left:0pt;float:none;}
+.resume {width: auto;margin-top:0pt; margin-bottom:0pt; margin-right:10pt; margin-left:10pt;padding: 100pt;border: 5pt solid black; float: none ;color: black;background: transparent none;}
