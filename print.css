@@ -1,0 +1,6 @@
+body {background:white; font-family:"Arial";}
+
+img {display: none;}
+
+.style1{border:0; width:auto; padding:100pt; margin-top:10pt; margin-bottom:10pt; margin-right:0pt; margin-left:0pt;float:none;}
+.resume {width: auto;margin-top:0pt; margin-bottom:0pt; margin-right:10pt; margin-left:10pt;padding: 100pt;border:0; float: none ;background: transparent none;}
